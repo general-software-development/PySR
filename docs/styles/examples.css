@@ -1,0 +1,9 @@
+*[good] .highlight {
+  border-left: 3px solid rgba(74, 182, 93, 1);
+}
+*[bad] .highlight {
+  border-left: 3px solid rgb(244, 76, 78);
+}
+*[maybe] .highlight {
+  border-left: 3px solid rgb(244, 227, 76);
+}

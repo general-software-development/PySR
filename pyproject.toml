@@ -1,0 +1,13 @@
+[project]
+name = "pysr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Bogdan", email = "github.34373732@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "zensical>=0.0.58",
+]
