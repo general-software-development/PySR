@@ -17,7 +17,7 @@ There is also no point in wasting time reimplementing a built-in function just t
 def my_map(fn, data: list) -> list:
     new_data = []
     
-    for item in dataa:
+    for item in data:
         new_data.append(fn(item))
 
     return new_data
