@@ -1,7 +1,7 @@
 [project]
-site_url = "https://www.example.com/"
-site_name = "Documentation"
-# site_description = "Your project description"
+# site_url = "https://www.example.com/"
+site_name = "PySR"
+# site_description = "PySR -- Python Styling Rules"
 # site_author = ""
 
 copyright = "&copy; Copyright 2026 bogdan-glitchm"
