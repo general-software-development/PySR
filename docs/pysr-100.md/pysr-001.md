@@ -1,4 +1,4 @@
-# PySR-0001, "Code of Conduct"
+# PySR 0001: Code of Conduct
 
 ## 1. Submitting or suggesting AI-generated code
 

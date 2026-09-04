@@ -1,4 +1,4 @@
-# PySR-0006, "Type Annotations"
+# PySR 0006: Type Annotations
 
 ## Abstract
 

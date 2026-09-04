@@ -1,4 +1,4 @@
-# PySR-0005, "Use built-in functions"
+# PySR 0005: Use built-in functions
 
 ## Abstract
 

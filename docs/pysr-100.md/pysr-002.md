@@ -1,4 +1,4 @@
-# PySR-0002, "FP/OOP"
+# PySR 0002: FP/OOP
 
 You shouldn't make a black-or-white choice between **Functional Programming** and **Object-Oriented Programming**. A good codebase mixes both, as both have their advantages and disadvantages.
 

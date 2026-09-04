@@ -1,4 +1,4 @@
-# PySR-0004, "Deprecated functions"
+# PySR 0004: Deprecated functions
 
 ## Abstract
 

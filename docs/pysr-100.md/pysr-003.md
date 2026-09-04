@@ -1,4 +1,4 @@
-# PySR-0003, "Method Chaining"
+# PySR 0003: Method Chaining
 
 Prefer using method chaining where appropriate on member functions that would otherwise return nothing.
 
